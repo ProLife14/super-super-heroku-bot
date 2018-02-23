@@ -1,0 +1,13 @@
+{
+  "name": "Discord Bot",
+  "description": "Discord bot for servers",
+  "repository": "https://github.com/IntelligentThings/FridayAI-Discord-Bot",
+  "keywords": ["ai", "api.ai", "bot", "w3c","discord","mail"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Token for discord",
+      "value": ""
+    }
+  },
+  "image": "heroku/nodejs"
+}
